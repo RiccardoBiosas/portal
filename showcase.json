@@ -605,6 +605,23 @@
   },
 
   {
+    "id": "stakedicp",
+    "name": "StakedICP",
+    "oneLiner": "Non-custodial liquid staking for ICP",
+    "tags": [
+      "DeFi"
+    ],
+    "description": "StakedICP is the liquid-staking protocol revolutionizing staking on the Internet Computer, putting control in investors' hands. ICP is staked in the NNS DAO, and stakers receive rewards just by holding the stICP token. The stICP token is DeFi-compatible, to support protocols building on the Internet Computer, and always fully-backed by ICP staked in the NNS.",
+    "usesInternetIdentity": false,
+    "website": "https://stakedicp.com",
+    "github": "https://github.com/AegirFinance/StakedICP",
+    "twitter": "https://twitter.com/StakedICP",
+    "display": "Normal",
+    "logo": "/img/showcase/stakedicp_logo.webp",
+    "screenshots": []
+  },
+
+  {
     "id": "plug",
     "name": "Plug",
     "oneLiner": "Decentralized Wallet for the Internet Computer",
@@ -2586,5 +2603,69 @@
     "youtube": "https://www.youtube.com/watch?v=wdjql_lmooE",
     "twitter": "https://twitter.com/_zondax_",
     "submittableId": ""
-  }
+  },
+  {
+    "id":"pluto",
+    "name": "Pluto",
+    "oneLiner": "HTTP router on blockchain",
+    "website": "https://t5mcf-cqaaa-aaaag-qcjna-cai.raw.icp0.io/",
+    "tags": [
+      "Tools / Infrastructure"
+    ],
+    "description": "Pluton is an HTTP router implemented on the Internet Computer to facilitate working with HTTP. This router is a framework that allows you to write REST API applications on the blockchain in almost the same way as in Web 2",
+    "usesInternetIdentity": false,
+    "github": "https://github.com/pu0238/pluto",
+    "submittableId": "36517192"
+  }, 
+  {
+    "id": "motoko-book",
+    "name": "The Motoko Programming Language Book",
+    "oneLiner": "Writing Web3 Applications on the Internet Computer",
+    "website": "https://web3.motoko-book.dev/",
+    "tags": ["Tools / Infrastructure"],
+    "description": "This book guides beginners into the world of Web3 programming in Motoko on the Internet Computer. It covers a broad range of concepts from the very basics to advanced async programming.",
+    "stats": "100 monthly users Google Analytics 17-06-2023",
+    "logo": "/img/showcase/motoko-book_logo.png", 
+    "usesInternetIdentity": "false",
+    "github": "https://github.com/Web3NL/motoko-book",
+    "submittableId": "34608505",
+    "youtube": "https://www.youtube.com/watch?v=FktYj4UgBKU"
+  },
+  {
+    "id": "infinitinote",
+    "name": "InfinitiNote",
+    "oneLiner": "InfinitiNote: Where the Unbounded Universe of Blockchain and AI Enhances Your Notes with Endless Insights.",
+    "website": "https://jqajc-hiaaa-aaaak-qck5a-cai.icp0.io/#/",
+    "tags": ["Tools / Infrastructure"],
+    "description": "InfinitiNote is an ICP-based AI-Enabled Note taking application, that allows users to create Notebooks, store Notes, and collaboratively edit in real-time with capability for file uploads and enhacned by LLAMA AI.",
+    "stats": "Just Launched",
+    "logo": "/img/showcase/in_logo.jpg", 
+    "usesInternetIdentity": "true",
+    "github": "https://github.com/hafezrouzati/infinitinote",
+    "submittableId": "32966927",
+    "youtube": "https://www.youtube.com/watch?v=XTDznhHdeOE"
+  },
+  {
+  "name": "NOBLEBLOCKS",
+  "description": "NobleBlocks, a DeSci project, aims to reshape scientific publishing using the Internet Computer's decentralized technology. We focus on fair and transparent reviewing and editing processes, guided by community-led DAOs. Our objective is to make scientific research more efficient and easily accessible to all.",
+  "website": "https://www.nobleblocks.com",
+  "logo": "/img/showcase/nobleblocks_logo.webp",
+  "screenshots": [
+    "/img/showcase/nobleblocks_screenshot.webp"
+  ],
+  "video": "",
+  "display": "Normal",
+  "id": "nobleblocks",
+  "oneLiner": "A Community-Driven DeSci Project for Scientific Publishing",
+  "stats": "",
+  "tags": [
+    "SocialFi",
+    "Tools / Infrastructure"
+  ],
+  "usesInternetIdentity": true,
+  "github": "",
+  "twitter": "https://twitter.com/nobleblocks",
+  "youtube": "",
+  "submittableId": "36650737"
+}
 ]

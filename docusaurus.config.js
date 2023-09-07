@@ -252,6 +252,10 @@ const navbarItems = [
       [
         menuDivider("Get Involved"),
         {
+          label: "ICP Community",
+          href: "/community?source=nav",
+        },
+        {
           label: "Become a Node Provider",
           href: "/node-providers?source=nav",
         },
